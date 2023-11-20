@@ -1,7 +1,5 @@
 # Workshop Convolutional Neural Networks
 
-# Techday Music
-
 Source of cifar10 dataset: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Google Colab
